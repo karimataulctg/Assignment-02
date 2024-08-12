@@ -53,9 +53,9 @@
     }
     .navbar1 p:hover {
     background-color: rgba(227, 230, 230, 0.51);
-    padding: 5px;
+    padding: 10px;
     border-radius: 20px;
-    }
+       }
     .btn-bar {
        width: 30px;
        display: none;
@@ -76,6 +76,7 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
+    
     }
     .navbar1 p {
     font-size: 18px;
