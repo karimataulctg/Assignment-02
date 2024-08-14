@@ -499,8 +499,8 @@
       .workout-video{
         margin: 0%;
         padding: 0;
-        width: 150px;
-        transform: translate(10px, -190px);
+        width: 120px;
+        transform: translate(5px, -180px);
     }
     .banner2 p {
         font-size: 12px;
